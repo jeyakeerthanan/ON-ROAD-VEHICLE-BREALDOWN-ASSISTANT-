@@ -1,6 +1,6 @@
 # ON-ROAD-VEHICLE-BREALDOWN-ASSISTANT-
 Mechanic app (Developed in Android Studio)
-..............................This is a online mechanic finding application..................................................
+This is a online mechanic finding application.
 In Sri Lanka find mechanic when you are in unknown place is stranger thing among people. 
 There for this project is about connecting the people with the Mechanics.
 This system is fully customized Mobile application where Mechanic can view each customer order and give a solution to those vehicle problems. 
